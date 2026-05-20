@@ -6,7 +6,7 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.utils.keyboard import ReplyKeyboardBuilder
 
 # --- Настройки ---
-API_TOKEN = '8640090894:AAEnYziZHzP0qRKBgfLoAqaMkvvyA9QparY' # Замени на свой токен
+API_TOKEN = '' # Замени на свой токен
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
